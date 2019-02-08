@@ -1,7 +1,7 @@
 # Portfolio
 
 Bonjour, je suis David Scellier et je suis Développeur Web Junior.
-Et c'est grâce à Simplon.co (<a href="https://simplon.co/">Simplon.co</a>)
+Et c'est grâce à <a href="https://simplon.co/">Simplon.co</a>
 
 Dans cette rubrique, vous trouverez une description de mon parcours et de mes réalisations.
 
