@@ -1,0 +1,26 @@
+/*General Settings*/
+
+body {
+	font-family: 'Oswald', 'sans-serif' !important;
+	background-color: bisque;/*color work*/ margin: 0;
+	font-size: 1rem; font-weight: 400; line-height: 1.5;
+	color: #212529; text-align: left;
+
+}
+
+header {
+	background: url(../img/header.jpg) no-repeat center;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100vh;
+	width: 100%;
+}
+
+.header_content {
+	height: 50vh;
+}
+
+.header_content h1 {
+	font-size: 90px !important;
+	text-transform: uppercase;
+}
